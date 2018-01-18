@@ -1,1 +1,1 @@
-# csci104-git-practice
+# Repo for practicing git commands and playing with bits of code. 
